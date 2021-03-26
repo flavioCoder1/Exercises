@@ -1,8 +1,8 @@
-let queenRowPosition = 4;
-let queenColumnPosition = 4;
+let queenRowPosition = 3;
+let queenColumnPosition = 2;
 
-let opponentRowPosition = 3;
-let opponentColumnPosition = 2;
+let opponentRowPosition = 2;
+let opponentColumnPosition = 1;
 
 let sucessfullAttack = false;
 
